@@ -61,11 +61,9 @@
 
 ### 🎮 **专业领域**
 
- 
 
-diff
+**Java字节码操控**：ASM/Javassist运行时Hook（含Minecraft 1.20+案例）
 
-Java字节码操控：ASM/Javassist运行时Hook（含Minecraft 1.20+案例）
+**反作弊对抗**：破解EAC/Bedrock防护（C++内存扫描技术）
 
-反作弊对抗：破解EAC/Bedrock防护（C++内存扫描技术）
-! 协议逆向：XOR-AES混合加密协议解密（含WireShark插件）
+**协议逆向**：XOR-AES混合加密协议解密（含WireShark插件）
