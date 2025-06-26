@@ -52,7 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xline1337&layout=compact&theme=radical&hide=html,css&border_radius=10" width="45%">
 </div>
 
-<!-- 动态贪吃蛇图 -->
-![Snake](https://raw.githubusercontent.com/Xline1337/Xline1337/output/assets/github-snake.svg)
 
 
