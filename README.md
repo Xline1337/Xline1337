@@ -53,7 +53,6 @@
 </div>
 
 <!-- 动态贪吃蛇图 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Xline1337/Xline1337/output/github-contribution-grid-snake.svg" width="90%">
-</div>
+![Snake](https://raw.githubusercontent.com/Xline1337/Xline1337/output/assets/github-snake.svg)
+
 
