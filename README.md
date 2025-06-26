@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&width=435&lines=逆向工程师+%7C+Minecraft+客户端开发者" alt="技术标签">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&width=435&lines=逆向工程师+%7C+Minecraft+客户端开发者" alt="Volsa">
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Xline1337" alt="访问统计"> 
 </div>
@@ -10,17 +10,13 @@
 **逆向工程**  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?logo=hex-rays)
+![IDEA](https://img.shields.io/badge/IDA_Pro-000000?logo=hex-rays)
 ![Ghidra](https://img.shields.io/badge/Ghidra-4674B9?logo=git)
 
 **游戏开发**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft)
-
----
-
-
 
 ---
 
