@@ -26,6 +26,7 @@
 ---
 
 ### 🧰 **技术栈工具箱**
+<!-- 三列多彩徽章组 -->
 <table align="center">
   <tr>
     <td>
@@ -33,25 +34,21 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
-      <p><strong>精通领域：</strong><br>• JVM字节码操作(ASM/Javassist)<br>• 内存注入与Hook技术<br>• 多线程高性能开发</p>
     </td>
     <td>
-      <strong>🛠️ 逆向工具</strong><br>
+      <strong>🛠️ 逆向利器</strong><br>
       <img src="https://img.shields.io/badge/IDA_Pro-000000?logo=hex-rays" alt="IDA Pro">
       <img src="https://img.shields.io/badge/x64dbg-47848F?logo=windows-terminal" alt="x64dbg">
       <img src="https://img.shields.io/badge/JADX-3DDC84?logo=android" alt="JADX">
-      <p><strong>实战能力：</strong><br>• PE/ELF文件结构分析<br>• 反混淆与反调试对抗<br>• 协议加密算法破解</p>
     </td>
     <td>
       <strong>💻 开发环境</strong><br>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" alt="IDEA">
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white" alt="VS">
       <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" alt="Gradle">
-      <p><strong>工作流：</strong><br>• 自动化构建系统<br>• 跨平台开发调试<br>• CI/CD流水线集成</p>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 💼 项目经验
