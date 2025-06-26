@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动态打字机标题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&width=435&lines=逆向工程师+%7C+Minecraft+客户端开发者;Java%2FC%2B%2B+逆向专家;Kotlin+全栈实践者" alt="技术标签">
+  <img [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=600&size=40&pause=1000&color=000000&multiline=true&width=500&lines=Xline1337;From+SkidVision)](https://git.io/typing-svg)
   
   <!-- 社交徽章 -->
   <p>
