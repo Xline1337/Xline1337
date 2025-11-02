@@ -16,7 +16,7 @@
 
 ---
 
-### 🧙‍♂️ 专业背景
+###  经历
 专注于游戏逆向工程领域的资深开发者，特别擅长：
 - **《Minecraft》客户端安全分析**：深度破解游戏保护机制
 - **反作弊对抗技术**：突破WatchDog/Bedrock/BMW Island等防护体系
@@ -25,7 +25,7 @@
 
 ---
 
-### 🧰 **技术栈工具箱**
+###  **技术栈工具箱**
 <!-- 三列多彩徽章组 -->
 <table align="center">
   <tr>
@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
     </td>
     <td>
-      <strong>🛠️ 逆向利器</strong><br>
+      <strong>🛠️ 逆向工具</strong><br>
       <img src="https://img.shields.io/badge/IDA_Pro-000000?logo=hex-rays" alt="IDA Pro">
       <img src="https://img.shields.io/badge/x64dbg-47848F?logo=windows-terminal" alt="x64dbg">
       <img src="https://img.shields.io/badge/JADX-3DDC84?logo=android" alt="JADX">
@@ -56,19 +56,19 @@
 - **技术组合**：Kotlin + Java字节码注入 + JNI
 - **核心功能**：
   - 实现运行时方法Hook与重定向
-  - 绕过宝马岛检测逻辑
+  - 绕过检测逻辑
   - 动态加载/卸载安全模块
 - **技术难点突破**：
   > _"通过重构类加载器层级，解决了反射调用在强化类加载器环境下的权限问题"_ 
 
-#### 2. 游戏协议逆向分析工具链
+#### 2. 游戏协议逆向分析
 - **技术组合**：C++ 17 + WinPCap + 自定义解析引擎
 - **关键能力**：
   - 实时解析加密游戏数据包
   - 自动识别XOR/AES轮加密模式
   - 支持协议字段重放攻击测试
 - **成果应用**：
-  > _成功解密《王者荣耀》，《和平精英》加密下发坐标，提供内核文件以供使用_
+  > _成功解密《王者荣耀》，《和平精英》加密下发坐标，提供内核文件以供使用
 
 ---
 
@@ -86,5 +86,6 @@
 - 反作弊系统攻防对抗
 - JVM底层机制与性能优化
 
-> 对于定制化开发需求，请通过邮件联系提供详细技术规格
+> Pwer by Grok
+
 
